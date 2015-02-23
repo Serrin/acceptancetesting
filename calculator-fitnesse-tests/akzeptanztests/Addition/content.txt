@@ -1,0 +1,5 @@
+!define TEST_SYSTEM {slim} 
+!fixture de.webcoders.sample.calculator
+| Teste Summenbildung |
+| Erster Operand | Zweiter Operand | Erwartetes Ergebnis? |
+| 2 | 3 | 5 |

@@ -1,0 +1,6 @@
+!define TEST_SYSTEM {slim}
+!path /Users/bernd/Projects/at_workspace/calculator-fitnesse-tests/target/test-classes
+!path /Users/bernd/Projects/at_workspace/calculator/target/classes
+| de.webcoders.sample.calculator.TesteSummenbildung |
+| Erster Operand | Zweiter Operand | erwartetes Ergebnis? |
+| 2 | 3 | 5.0 |
